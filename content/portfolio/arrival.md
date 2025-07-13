@@ -14,4 +14,4 @@ Le damos espacio en nuestra programación a ese género que tanto amamos con la 
 
 📚 Además, nos acompañará el stand de la [Librería Marta Brunet del Fondo de Cultura Económica](https://www.instagram.com/fce_conce/) con una selección especial de libros de ciencia y ficción (incluyendo el cual se basa la película).
 
-Consigue tu entrada gratis en [este enlace](https://www.eventbrite.com/e/cineclub-fi-udec-arrival-proyeccion-cineforo-tickets-1486604968479).
+**Consigue tu entrada gratis en [este enlace](https://www.eventbrite.com/e/cineclub-fi-udec-arrival-proyeccion-cineforo-tickets-1486604968479).**

@@ -12,4 +12,4 @@ Seguimos nuestro ciclo **Amar, perder, arder** con **El Niño (L'Enfant)**, una 
 
 🎙️ Después de la función, conversaremos en un cineforo con **Cristián Saldía**, Jefe de Carrera de [Dirección Audiovisual y Multimedia de la UCSC](https://sociales.ucsc.cl/en/autoridades/mg-cristian-saldia-ramirez/), cineasta y Director del [Festival Frontera Sur](https://www.instagram.com/fronterasurfestival). ¡Imperdible!
 
-Consigue tu entrada gratis en [este enlace](https://www.eventbrite.cl/e/cineclub-fi-udec-el-nino-lenfant-proyeccion-cineforo-tickets-1486637114629).
+**Consigue tu entrada gratis en [este enlace](https://www.eventbrite.cl/e/cineclub-fi-udec-el-nino-lenfant-proyeccion-cineforo-tickets-1486637114629).**
