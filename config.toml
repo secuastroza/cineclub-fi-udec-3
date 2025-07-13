@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "es-cl"
 title = "Cineclub FI UdeC"
 theme = ["hugo-creative-portfolio-theme", "darths-hugo-shortcodes-master"]
