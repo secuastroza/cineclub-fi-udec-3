@@ -1,5 +1,5 @@
 ---
-title: "Conversatorios"
+title: "Conversatorios en la Libreria Marta Brunet"
 image: "/images/conversatorios.png"
 description: "Miércoles de Agosto"
 date: 2025-07-07
@@ -18,23 +18,15 @@ Una instancia reflexiva y cercana, ideal para quienes disfrutan del análisis ci
 
 La actividad es gratuita, y puedes llevar algo para tomar o comer durante la jornada.
 
-📅 Programa:
+📅 **Consigue tus entradas gratis en los siguientes enlaces:**
 
-**06/08 – “Wong Kar-Wai y la estética de la soledad”** | Nicolás Aravena
-**Consigue tu entrada gratis en [este enlace](https://www.eventbrite.com/e/cineclub-fi-udec-arrival-proyeccion-cineforo-tickets-1486604968479).**
+**[06/08 – “Wong Kar-Wai y la estética de la soledad”](https://www.eventbrite.cl/e/conversatorio-wong-kar-wai-y-la-estetica-de-la-soledad-tickets-1533385841329)** | Nicolás Aravena
 
+**[13/08 – “Soledad rosa: Existencialismo femenino en el cine de Sofía Coppola”](https://www.eventbrite.cl/e/conversatorio-existencialismo-femenino-en-el-cine-de-sofia-coppola-tickets-1533387977719)** | Javiera Hilinger
 
-**13/08 – “Soledad rosa: Existencialismo femenino en el cine de Sofía Coppola”** | Javiera Hilinger
-**Consigue tu entrada gratis en [este enlace](https://www.eventbrite.com/e/cineclub-fi-udec-arrival-proyeccion-cineforo-tickets-1486604968479).**
+**[20/08 – “David Cronenberg y los monstruos corporales del ocaso”](https://www.eventbrite.cl/e/conversatorio-david-cronenberg-y-los-monstruos-corporales-del-ocaso-tickets-1533388790149)** | Nicolás Aravena
 
-
-**20/08 – “David Cronenberg y los monstruos corporales del ocaso”** | Nicolás Aravena
-**Consigue tu entrada gratis en [este enlace](https://www.eventbrite.com/e/cineclub-fi-udec-arrival-proyeccion-cineforo-tickets-1486604968479).**
-
-
-**27/08 – “Narrativas del malestar: vínculos rotos, control y vacío en el cine de Paul Thomas Anderson”** | Javiera Hilinger
-**Consigue tu entrada gratis en [este enlace](https://www.eventbrite.com/e/cineclub-fi-udec-arrival-proyeccion-cineforo-tickets-1486604968479).**
-
+**[27/08 – “Narrativas del malestar: vínculos rotos, control y vacío en el cine de Paul Thomas Anderson”](https://www.eventbrite.cl/e/conversatorio-narrativas-del-malestar-el-cine-de-paul-thomas-anderson-tickets-1533388900479)** | Javiera Hilinger
 
 Esta iniciativa forma parte de las actividades de extensión del Cineclub FI UdeC, orientadas a fomentar el diálogo cultural en la comunidad.
 
