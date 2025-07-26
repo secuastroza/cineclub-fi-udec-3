@@ -1,5 +1,5 @@
 ---
-title: "Conversatorios en la Libreria Marta Brunet"
+title: "Conversatorios en la Librería Marta Brunet"
 image: "/images/conversatorios.png"
 description: "Miércoles de Agosto"
 date: 2025-07-07
