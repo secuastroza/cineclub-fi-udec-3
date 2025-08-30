@@ -17,5 +17,7 @@ Una sesión para el cine independiente chileno: la nueva película de **Patricio
 🗣️ *Cineforo con el director:* **Patricio Valladares** conversa con el público tras la proyección. No necesitas ser “experto”: trae tus preguntas, lecturas y curiosidad.
 Ven a conocer a un realizador chileno que se atreve a mezclar cercanía y horror.
 
+🏖️ *Filmada en Cobquecura*.
+
 
 Consigue tu entrada gratis en el [siguiente enlace](https://www.eventbrite.com/e/lo-que-trajo-la-marea-proyeccion-cineforo-con-director-tickets-1645481161449).
