@@ -14,8 +14,7 @@ Una sesión para el cine independiente chileno: la nueva película de **Patricio
 
 🎬 *Premiere en Concepción:* primera exhibición local.
 
-🗣️ *Cineforo con el director:* **Patricio Valladares** conversa con el público tras la proyección. No necesitas ser “experto”: trae tus preguntas, lecturas y curiosidad.
-Ven a conocer a un realizador chileno que se atreve a mezclar cercanía y horror.
+🗣️ *Cineforo con el director:* **Patricio Valladares** conversa con el público tras la proyección. No necesitas ser “experto”: trae tus preguntas y curiosidad.
 
 🏖️ *Filmada en Cobquecura*.
 
