@@ -8,7 +8,7 @@ type: "portfolio"
 
 ![Cartel de Psicosis](/images/psycho_h.png)
 
-Ven a ver en pantalla grande el clásico de **Alfred Hitchcock**. Después de la proyección, **Sara Salazar**, **Felipe Hinojosa** y **Nicolás Masquiarán** —los tres panelistas de [**“De Película” (Radio UdeC)**](https://www.radioudec.cl/de-pelicula/)— desmenuzarán con nosotros el supenso, el cine de Hitchcock, y la mítica música de Bernard Herrmann. 🎼🖤
+Ven a ver en pantalla grande el clásico de Alfred Hitchcock. Después de la proyección, Sara Salazar, Felipe Hinojosa y Nicolás Masquiarán —los tres panelistas de [**“De Película” (Radio UdeC)**](https://www.radioudec.cl/de-pelicula/)— desmenuzarán con nosotros el supenso, el cine de Hitchcock, y la mítica música de Bernard Herrmann. 🎼🖤
 
 👻 *Especial Halloween: ¡Ven disfrazad@! Premiamos los mejores disfraces con temática cine de terror.*
 
