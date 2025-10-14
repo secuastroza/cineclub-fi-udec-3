@@ -7,6 +7,8 @@ Acá encuentras grabaciones de algunos de nuestros cineforos anteriores.
 ##### Un diván en Nueva York (Chantal Akerman) con Fernanda Solórzano
 {{< youtube mSFM55QSaZM >}}
 
+##### Cold War (Paweł Pawlikowski) con Sara Salazar
+{{< youtube baCIcpC3Hf4 >}}
 
 ##### La habitación del hijo (Nanni Moretti) con Joaquín Urrutia
 {{< youtube v_zosJlZKoA >}}
