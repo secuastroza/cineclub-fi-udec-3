@@ -53,6 +53,10 @@ googleAnalytics = "G-6LC2JWPF3F"
   url = "about/"
 
   [[params.navlinks]]
+  name = "Reseñas"
+  url = "reviews/"
+
+  [[params.navlinks]]
   name = "Cineforos"
   url = "cineforos/"
 
