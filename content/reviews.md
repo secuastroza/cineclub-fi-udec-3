@@ -5,7 +5,8 @@ title: "Reseñas"
 - [Hamnet (Chloé Zhao, 2025)](#hamnet)
 - [Die My Love (Lynne Ramsay, 2025)](#diemylove)
 
-## Hamnet (Chloé Zhao, 2025) <a id="hamnet"></a>
+
+## Hamnet (Chloé Zhao, 2025) [](#){name=hamnet}
 
 ![Hamnet](/images/hamnet.png)
 
@@ -21,7 +22,7 @@ Sin embargo, la apabullante fotografía de **Łukasz Żal** (quien sacudió el t
 
 Hace algunos meses proyectamos *La habitación del hijo* de **Nanni Moretti** en nuestro cineclub. El invitado al cineforo fue **Joaquín Urrutia**, quien dijo: “Esta misma película hubiera sido una lata en manos de otro director”. No pude dejar de pensar en eso al abandonar la sala luego de *Hamnet*. Me es muy difícil encontrar palabras para darles una razón, pero entre tantas escenas de *La habitación del hijo* que se podrían mencionar, una que me da mucha pena es la del personaje principal entrando a elegir un disco en una tienda. O, por nombrar algo más reciente, la escena que más tristeza me provoca en *Aftersun* es la de una niña bailando con su padre (el mismo **Paul Mescal**). ¿Necesitamos ver a Moretti o a Mescal llorando o gritando repetidas veces para entender la inmensa desolación de ambos personajes? Creo que basta con hacerlo una sola vez (y de espaldas). Las cosas profundamente tristes son imposibles de explicar.
 
-## Die My Love (Lynne Ramsay, 2025) <a id="diemylove"></a>
+## Die My Love (Lynne Ramsay, 2025) [](#){name=diemylove}
 
 ![Die My Love](/images/diemylove.png)
 
