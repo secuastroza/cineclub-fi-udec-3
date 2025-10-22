@@ -3,11 +3,10 @@ title: "Reseñas"
 ---
 
 - [Hamnet (Chloé Zhao, 2025)](#hamnet)
-- [Die My Love (Lynne Ramsay, 2025)](#diemylove)
+- [Die My Love (Lynne Ramsay, 2025)](#die-my-love)
 
-[[_TOC_]]
-
-## Hamnet (Chloé Zhao, 2025) [](#){name=hamnet}
+## Hamnet 
+## (Chloé Zhao, 2025)
 
 ![Hamnet](/images/hamnet.png)
 
@@ -25,7 +24,8 @@ Hace algunos meses proyectamos *La habitación del hijo* de **Nani Moretti** en 
 
 
 
-## Die My Love (Lynne Ramsay, 2025) [](#){name=diemylove}
+## Die My Love 
+## (Lynne Ramsay, 2025)
 
 ![Die My Love](/images/diemylove.png)
 
