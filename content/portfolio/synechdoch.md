@@ -1,5 +1,5 @@
 ---
-title: "Synechdoch"
+title: "Synecdoch"
 image: "/images/synechdoch.png"
 description: "12 Diciembre - 5:00PM"
 date: 2025-11-28
@@ -8,7 +8,7 @@ type: "portfolio"
 
 ![Cartel de Synecdoch](/images/synechdoch.png)
 
-Ven a terminar el semestre a nuestro cineclub con la proyección de la ya mítica película **"Synechdoch, New York"**. Escrita y dirigida por el fascinante *Charlie Kaufman* (Eterno Resplandor de una Mente sin Recuerdos, Cómo ser John Malkovich) y protagonizada por el legendario *Philip Seymour Hoffman* (Capote, The Master), "Synechdoch, New York" es una experiencia que trasciende el tiempo.
+Ven a terminar el semestre a nuestro cineclub con la proyección de la ya mítica película **"Synecdoch, New York"**. Escrita y dirigida por el fascinante *Charlie Kaufman* (Eterno Resplandor de una Mente sin Recuerdos, Cómo ser John Malkovich) y protagonizada por el legendario *Philip Seymour Hoffman* (Capote, The Master), "Synecdoch, New York" es una experiencia que trasciende el tiempo.
 
 Inmediatamente después de la proyección, tendremos un conversatorio con el público, moderado por nuestros mediadores estrellla: **Javiera Hillinger** (diseñadora y artista) y **Nicolás Aravena** (licenciado en cine y medios audiovisuales)
 
