@@ -1,5 +1,5 @@
 ---
-title: "Synecdoch"
+title: "Synecdoch, New York"
 image: "/images/synechdoch.png"
 description: "12 Diciembre - 5:00PM"
 date: 2025-11-28
