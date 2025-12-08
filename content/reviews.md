@@ -9,7 +9,7 @@ title: "Reseñas"
 ## The Running Man
 ### (Edgar Wright, 2025)
 
-![Hamnet](/images/runningman.png)
+![thT Running Man](/images/runningman.png)
 
 _**por Vicente Fuentes**_
 
