@@ -2,8 +2,38 @@
 title: "Reseñas"
 ---
 
+- [The Running Man (Edgar Wright, 2025)](#the-running-man)
 - [Hamnet (Chloé Zhao, 2025)](#hamnet)
 - [Die My Love (Lynne Ramsay, 2025)](#die-my-love)
+
+## The Running Man
+### (Edgar Wright, 2025)
+
+![Hamnet](/images/runningman.png)
+
+_**por Vicente Fuentes**_
+
+Luego de casi 40 años del estreno de la cinta original de 1987 protagonizada por Arnold Schwarzenegger, el reconocido cineasta Edgar Wright es encomendado en dirigir este remake con el nuevo rostro de Hollywood Glen Powell en el papel estelar, buscando acercar el concepto a nuevas audiencias en lo que promete ser una sobredosis de acción en un mundo distópico.
+A través de los años, se ha formado una gran fanaticada alrededor del director Edgar Wright (su servidor incluido), reconocido por *Baby Driver* (2017), *Scott Pilgrim vs. The World* (2010) y su trilogía de comedia negra, la denominada *Cornetto Trilogy* (*Shaun of the Dead*, *Hot Fuzz* y *The World's End*). Su estilo de edición veloz, personajes entrañables y particular sentido del humor lo han convertido en uno de los directores hollywoodenses más interesantes y genuinamente divertidos de ver, mezclando acción y comedia en la pantalla grande. 
+
+Contradictoriamente, esta cinta carece un poco de la personalidad de Wright. Si bien el humor y la acción están, ninguno de ellos destaca como en sus otras cintas. Incluso diría que es difícil notar que es de él, pues suele dejar una gran huella de autor en todas sus obras, cosa que aquí no es tan notoria.
+
+Para una película que se traduce literalmente como *“El Hombre que Corre”*, no se siente una tensión tan potente la mayoría del tiempo; de hecho, está llena de momentos de descanso para el protagonista, lo cual mata un poco el ritmo de una persecución constante que promete al principio. Varias locaciones y personajes de apoyo intentan sumar una perspectiva diferente del mundo en el que viven, pero la mayoría no son muy trascendentes dentro de la historia y su desenlace.
+
+Como buena cinta de acción, los disparos y golpes están presentes en varios momentos a lo largo del filme, entregando una dosis correspondida de lo que esperarías al entrar a la sala. Por otro lado, se asume que al ver una de estas películas hay que llegar con cierta ingenuidad de por medio para aceptar una que otra secuencias poco creíbles, pero en ciertos instantes la acción se vuelve demasiado inverosímil. No tiene sentido jugar a la policía de la lógica en estos casos, pero más de un momento te hará pensar “¿por qué hizo eso?” o “¿cómo nadie lo detuvo?”.
+
+A lo largo de las dos horas con 13 minutos que dura esta aventura se nos explican las distintas aristas del mundo que nos presentan y las reglas del programa “The Running Man”. Son precisamente estas últimas las que parecen sobrar a medida que avanzamos en el tiempo. Varios elementos no quedan claros del todo o pierden relevancia más adelante.
+
+Como punto aparte, es algo confusa la ambientación; una mezcla entre lo analógico y lo digital, con referencia a la cultura pop pero siendo de otro universo, como intentando fusionar la versión original con la tecnología actual (es raro).
+
+Glen Powell se ha posicionado como uno de los nuevos rostros de Hollywood más reconocibles; sus papeles en *Top Gun: Maverick* y *Anyone But You* lo han hecho acercarse a consolidarse como una estrella de primer nivel. Si bien en *The Running Man* cumple con el porte y actitud de un héroe de acción, la cinta en sí no resulta tan memorable como para catapultarlo a ser un A-lister, pero va muy bien encaminado. En cuanto al resto del cast, en términos simples; un buen villano por parte de Josh Brolin (qué raro verlo sin barba), un carismático Colman Domingo y Michael Cera, encantador como siempre.
+
+El contexto político resulta interesante en un inicio: una sociedad controlada por la industria del entretenimiento, una intensa lucha de clases y millones de rezagados por el mundo que las grandes corporaciones construyeron. Un escenario visto en varias cintas de ciencia ficción, pero no por eso menos válido. El real problema es que la caracterización de los personajes, sobre todo de los villanos y la clase alta, suele caer en lo caricaturesco, lo cual se puede entender si se quiere marcar un punto. De todas maneras, el desenlace resulta bastante simplista y no llega a un veredicto muy profundo.
+
+En conclusión, *The Running Man* es una de tus clásicas películas de acción de domingo, bastante mejor que una de Steven Seagal pero por debajo de *John Wick*. Perfecta para ver con tu papá el fin de semana que pasaron tiempo de calidad para luego olvidarte de él por unos meses. Edgar Wright continuará siendo uno de mis directores favoritos y de los mejores en su terreno, pero sin duda este no es uno de sus trabajos más memorables.
+
+
+
 
 ## Hamnet 
 ### (Chloé Zhao, 2025)
