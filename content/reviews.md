@@ -2,9 +2,43 @@
 title: "Reseñas"
 ---
 
+- [Marty Supreme (Josh Safdie, 2025)](#marty-supreme)
 - [The Running Man (Edgar Wright, 2025)](#the-running-man)
 - [Hamnet (Chloé Zhao, 2025)](#hamnet)
 - [Die My Love (Lynne Ramsay, 2025)](#die-my-love)
+
+## Marty Supreme
+### (Josh Safdie, 2025)
+
+![Marty Supreme](/images/martysup.jpeg)
+
+_**por Vicente Fuentes**_
+
+La nueva película de Josh Safdie, esta vez independizado de su hermano Benny, nos cuenta la historia de Marty Mauser, interpretado por Timothée Chalamet, un jugador de tenis de mesa profesional obsesionado con ser el mejor del mundo, ganar el campeonato mundial y el Óscar a mejor actor principal. El joven deportista junto con un variopinto elenco de personajes que usará para conseguir su objetivo intentarán encantar a la audiencia y la crítica para consolidarse como unos de los grandes ganadores de los premios de la Academia, ceremonia en la que cuentan con 9 nominaciones.
+
+Una película con un ritmo acelerado y diálogos abundantes. Hace sentir como si tuviera en cuenta el supuesto déficit atencional que todos padecemos. Un montaje de escenas acelerado pero acertado, parecido a lo que veríamos en un TikTok o un reel, que te mantiene atento en cada segundo. Incluso a mí, que en una función a las 10 de la noche y habiendo dormido solo 5 horas, no me dio sueño en ningún momento.
+
+Partimos conociendo al centro de atención de la cinta, el personaje de Marty, el cual cuenta con un increíble poder de convencimiento y del habla. Al principio lo obtiene todo: las victorias, la gente, la admiración. Lo hacen sentir y ver invencible. Es luego de cierto momento decisivo, al final del primer acto, en donde de ahí en adelante solo lo vamos a ver perder y caer. Este buscará por todos los medios cumplir su objetivo y el que cree que es su destino, esperando que todos los demás a su alrededor opinen lo mismo y que eso sea lo suficiente para conseguir su ayuda.
+
+Es luego del campeonato mundial donde nos damos cuenta del enfoque de esta historia: Marty no es el héroe que él piensa que es; de hecho, si algo es, es el malo. Citando al guionista y crítico de cine Hermes Antonio (@hermeselsabio), “Es como Rocky, si Rocky fuese un reverendo sdw”. Y no puede estar más en lo cierto: es el joven que viene de abajo, pero que espera subir sin la ayuda de nadie; o al menos eso es lo que profesa. Por otro lado, su rival, Endo, representante de Japón, quien si no me equivoco no dice una sola palabra en toda la película, es la versión heroica de Iván Drago (Rocky IV), un deportista que representa todos los mejores valores de su país y es amado por su gente, todo lo contrario a Marty.
+
+Y es que no cabe duda de que esta película es un estudio de personaje, todo gira en torno al protagonista y sus acciones. Este mismo es un vampiro, figurativamente hablando. Toma y bebe de otros para mantenerse vivo porque no puede por sí solo. La misma película hace una referencia directa a esto con el personaje de Kevin O'Leary, Milton Rockwell.
+Marty puede verse como una parodia y disección de este tipo de gente. Supuestos gurús que profesan sobre su éxito que lograron sin la ayuda de nadie, ridículamente determinados a cumplir su objetivo y minimizan a quien no esté de acuerdo con ellos, pero que en la práctica no son más que un fraude. Muy bueno para el ping pong será, pero asume que con su talento será suficiente para conseguirlo todo. 
+
+Profesa que le gusta lograr las cosas  por sí mismo, que si no es de esta forma no tiene el mismo valor, sin embargo no es capaz de tener un techo ni comida sin la ayuda de otros. Personaje que probablemente alguien malinterprete y lo vea como un ejemplo a seguir (quizás yo lo estoy haciendo en este momento y toda la película en realidad es una glorificación de esta mentalidad).
+
+Marty Mauser es el carisma de Timothée Chalamet llevado al cien. Es irritante y un ser humano horrible en ocasiones, sin embargo, no puede dejar de verlo. Literalmente una persona detrás mío en la sala dijo en un momento: “El C0nch3$um@dr3 de m!3rd@”. 
+
+El otro personaje a destacar es Rachel, interpretada por Odessa A’zion, quien combina a la perfección con el protagonista siendo un dúo de estafadores innatos, unos reales “conman” (googlealo si no sabes que significa). Se criaron juntos, aprendieron a sobrevivir de la misma forma, y se nota, son tal para cual. También mencionar a Gwyneth Paltrow, siempre es agradable ver de vez en cuando.
+
+Con respecto al resto de miembros del cast, no todos son precisamente actores, sino que talentos de otras profesiones y artes que representan la vibra que el director buscaba para cada uno de sus personajes. Partiendo por el rapero Tyler, The Creator, como Wally, el compañero de estafas de Marty, quien entrega su rol carismático y cercano, como suele hacer en sus entrevistas.
+
+A su vez, resaltar la participación de Kevin O'Leary, empresario reconocido por el programa Shark Tank, quien interpreta a Milton Rockwell, el magnate que será tanto un enemigo como un aliado para nuestro protagonista. La lista de perfiles curiosos que aparecen en la cinta se va poniendo cada vez más rebuscada, pero no quiero convertir esto en una lista de datos curiosos. Sí mencionar que esto representa la búsqueda de genuinidad por parte del director y el equipo de casting, o quizás solo es un afán por complicarse la vida, no lo sé.
+
+Si bien casi todo son flores y aplausos, a la hora de cerrar el trato, la conclusión resulta poco convincente. A nivel deportivo, el desenlace me parece perfecto y hasta poético. Es el final personal de Marty el que me cuesta digerir por completo. Entiendo la intención, y en cierta medida concuerdo, pero no sé si realmente estuvimos construyendo la historia en esa dirección. Pareciera como si de un segundo a otro fuera una persona completamente distinta.
+
+Me gustó mucho, por si no quedó claro. Un interesante estudio de personaje, un balanceo entre la determinación y la obsesión que también sirve como una parodia y lección para este tipo de gente. Denle el Óscar al cabro este, qué les cuesta.
+
 
 ## The Running Man
 ### (Edgar Wright, 2025)
