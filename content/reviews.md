@@ -2,14 +2,14 @@
 title: "Reseñas"
 ---
 
-- [The Rise of the Red Hot Chili Peppers (Ben Feldman, 2025)](the-rise-of-the-red-hot-chili-peppers)
+- [The Rise of the Red Hot Chili Peppers (Ben Feldman, 2026)](#the-rise-of-the-red-hot-chili-peppers-our-bother-hillel)
 - [Marty Supreme (Josh Safdie, 2025)](#marty-supreme)
 - [The Running Man (Edgar Wright, 2025)](#the-running-man)
 - [Hamnet (Chloé Zhao, 2025)](#hamnet)
 - [Die My Love (Lynne Ramsay, 2025)](#die-my-love)
 
-## The Rise of the Red Hot Chili Peppers
-### (Ben Feldman, 2025)
+## The Rise of the Red Hot Chili Peppers: Our Bother, Hillel
+### (Ben Feldman, 2026)
 
 ![The Rise of the Red Hot Chili Peppers](/images/redhot.jpeg)
 
@@ -49,7 +49,7 @@ Cabe mencionar que es una pieza muy interna sobre la banda; si no te gustan ello
 
 Con los años he llegado a desarrollar una especie de relación parasocial con estos tipos. Nunca he hablado con ellos y nunca lo haré, pero es inevitable sentir alguna clase de conexión emocional hacia ellos y su música. Este documental para mí toca una fibra muy sensible, rememorando años de infancia e ingenuidad. Un retrato que hurga en lo más profundo de los artistas, haciéndolos viajar a un tiempo que no olvidan, pero que les duele recordar.
 
-![The Rise of the Red Hot Chili Peppers](/images/vicente.jpeg)
+![Foto de Vicente](/images/vicente.jpeg)
 
 ## Marty Supreme
 ### (Josh Safdie, 2025)
