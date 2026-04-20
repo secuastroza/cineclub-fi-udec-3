@@ -2,10 +2,54 @@
 title: "Reseñas"
 ---
 
+- [The Rise of the Red Hot Chili Peppers (Ben Feldman, 2025)](the-rise-of-the-red-hot-chili-peppers)
 - [Marty Supreme (Josh Safdie, 2025)](#marty-supreme)
 - [The Running Man (Edgar Wright, 2025)](#the-running-man)
 - [Hamnet (Chloé Zhao, 2025)](#hamnet)
 - [Die My Love (Lynne Ramsay, 2025)](#die-my-love)
+
+## The Rise of the Red Hot Chili Peppers
+### (Ben Feldman, 2025)
+
+![The Rise of the Red Hot Chili Peppers](/images/redhot.jpeg)
+
+_**por Vicente Fuentes**_
+
+El recién estrenado documental de la banda californiana cuenta la historia de Hillel Slovak, guitarrista original de la agrupación, quien falleció trágicamente a sus 26 años. A su vez, narra los comienzos de los Red Hot Chili Peppers, abriéndose paso en el mundo de la música y en la búsqueda de su propio sonido. Todo esto con la participación de los miembros fundadores, Anthony Kiedis (vocalista), Flea (bajo) y Jack Irons (batería), junto con otros personajes en la vida del joven músico antes de su fallecimiento en 1988.
+
+Si bien ya llegaremos a hablar del documental en sí, antes quería aprovechar esta oportunidad para tomarme el tiempo de reflexionar sobre lo que significa esta banda y su historia para mí.
+
+Llevo más de la mitad de mi vida escuchándolos. No estoy cien por ciento seguro, pero creo que la primera vez que los escuché fue más o menos a los 11 años, en un largo viaje en auto de noche con mi papá, luego de ir a ver un partido de Huachipato (probablemente perdieron). Por alguna razón, me llamaron particularmente la atención las 5 o 6 canciones descargadas ilegalmente que tenía mi padre guardadas en un mp3 que llevaba a todos lados. Luego de eso, comenzaría una hiperfijación que seguiría hasta el día de hoy.
+
+Recuerdo haber dedicado un día entero a leer completa su página de Wikipedia (realmente toda). Otro, a ver todos sus videos musicales uno por uno. En otra ocasión intenté aprender de memoria la letra de “Otherside”, la escuché en bucle durante 4 o 5 horas. Más adelante quise tocarla en guitarra; no logré pasar de las primeras cuatro notas.
+
+Recuerdo cuando se anunció que los “Red Hot” vendrían al Lollapalooza de 2014. Imaginen mi emoción cuando supe que la banda con la que me había obsesionado hace menos de un año venía a mi país. Ni siquiera me acuerdo haberle pedido a mi papá ir al concierto; creo haberlo comentado con él cuando todavía se rumoreaba que iban a venir. Tampoco tengo memoria del día en que compramos las entradas ni nada de eso. Creo que él tomó como una certeza absoluta que iríamos y no vio necesidad de conversarlo; no lo pensó mucho, quizá solo quería verme feliz.
+
+Para mí, los Red Hot Chili Peppers son más que una banda que me gusta: han estado conmigo casi toda mi vida y, básicamente, son la razón de por qué me gusta la música. Cuando empecé a escucharlos, se sintió como si al fin tuviera algo que es mío, algo con lo que sentirme identificado. Cada vez que veo un documental o leo algo sobre ellos, me recuerda a esa época cuando niño, en donde todavía había mucho por descubrir.
+
+Una vez dicho esto, ahora sí, el documental. He consumido un montón de entrevistas, videos, libros, podcasts, etc., sobre los Red Hot Chili Peppers. De todas las revisiones de su historia, esta es sin duda una de las más íntimas que he visto.
+
+Si bien el documental es sobre Hillel, los verdaderos protagonistas son Anthony y Flea, el vocalista y bajista de la banda, respectivamente. Dos niños inadaptados e incomprendidos, provenientes de entornos familiares complejos, que ni siquiera pensaban en ser músicos. Ellos ven en Slovak tanto a alguien a quien admirar como a un amigo.
+
+Con el tiempo, ambos se contagiarían del amor de Hillel por la música. Uno de los mayores aciertos de este retrato es mostrar el impacto del guitarrista en la vida de los dos músicos, quienes, antes de él, ni siquiera sabían tocar bajo o cantar.
+
+La época de Slovak siempre ha sido un poco ignorada tanto por mí como por la misma banda. No tocan canciones de esa época y, por alguna razón, rara vez se refieren a ella; quizás les resulta muy duro de recordar. Sin embargo, ambos miembros fundadores se toman el tiempo de rememorar sus primeros años como pocas veces lo han hecho. Te lleva de vuelta a una época en donde no eran superestrellas intocables, sino jóvenes artistas que formaban parte del ecosistema cultural de la ciudad del espectáculo y de un organismo vivo de creatividad y arte. Una época mucho más simple, antes del dinero y la fama, donde solo había pasión.
+
+Es hasta conmovedor ver a dos tipos de ya 60 y tantos años, millonarios y ultra famosos, volver a una época donde sus vidas eran más simples, donde solo se tenían el uno al otro y su amor por la música. Una vida que, al recordarla, quizás les parezca ya muy distante.
+
+Ambos músicos se exponen con total honestidad. Existen ya algunas otras entrevistas en donde Flea se muestra de esta manera, vulnerable, transparente y emocional,  parece ser el más sentimental del grupo. Por otro lado, ver a Anthony de esta forma, quien suele ser mucho más compuesto, es aún más impactante de ver. El contraste entre la figura de su vocalista previo a la muerte de Hillel y su posterior sobriedad deja en claro el impacto que esto tuvo en sus vidas y como nada para ellos volvió a ser lo mismo.
+
+Un pequeño spoiler, pero cabe destacar la breve participación de John Frusciante, el guitarrista posterior y más reconocido de la banda, quien aporta la perspectiva externa de alguien que, si bien no conoció a Hillel, sí lo admiraba como fanático y como inspiración musical.
+
+El documental te hace ver con otros ojos sus primeros tres discos: son caóticos, más funk, más punk, más eufóricos y explosivos. Son muy distintos a la banda que uno conoce y al trabajo que los hizo mundialmente famosos, pero transmiten por completo el sentimiento y la vibra de sus miembros en aquella época.
+
+Otro punto a destacar es el uso de artes conceptuales o animadas que utilizan para ponernos en perspectiva, en conjunto con la narración, para hacerla más dinámica. Junto a esto, creo que el uso de la inteligencia artificial para recrear la voz del difunto guitarrista mientras leen las entradas de su diario es bastante bueno. Mucho se ha criticado el uso de la IA en artistas fallecidos, sin embargo, esto me parece sutil y hasta le agrega un toque de sentimentalismo al poder escuchar su voz una vez más; de los pocos usos acertados que he visto de este recurso.
+
+Cabe mencionar que es una pieza muy interna sobre la banda; si no te gustan ellos o no te interesa para nada este mundo, difícilmente te va a gustar. Por otro lado, más que el aspecto musical en sí, lo más destacado es el factor humano que retrata en pos de la música y el viaje artístico de estos individuos, el cual puede servir de inspiración para cualquiera que esté buscando su propia conexión con el arte.
+
+Con los años he llegado a desarrollar una especie de relación parasocial con estos tipos. Nunca he hablado con ellos y nunca lo haré, pero es inevitable sentir alguna clase de conexión emocional hacia ellos y su música. Este documental para mí toca una fibra muy sensible, rememorando años de infancia e ingenuidad. Un retrato que hurga en lo más profundo de los artistas, haciéndolos viajar a un tiempo que no olvidan, pero que les duele recordar.
+
+![The Rise of the Red Hot Chili Peppers](/images/vicente.jpeg)
 
 ## Marty Supreme
 ### (Josh Safdie, 2025)
