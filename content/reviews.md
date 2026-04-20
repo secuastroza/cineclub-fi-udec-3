@@ -2,13 +2,13 @@
 title: "Reseñas"
 ---
 
-- [The Rise of the Red Hot Chili Peppers (Ben Feldman, 2026)](#the-rise-of-the-red-hot-chili-peppers-our-bother-hillel)
+- [The Rise of the Red Hot Chili Peppers (Ben Feldman, 2026)](#the-rise-of-the-red-hot-chili-peppers-our-brother-hillel)
 - [Marty Supreme (Josh Safdie, 2025)](#marty-supreme)
 - [The Running Man (Edgar Wright, 2025)](#the-running-man)
 - [Hamnet (Chloé Zhao, 2025)](#hamnet)
 - [Die My Love (Lynne Ramsay, 2025)](#die-my-love)
 
-## The Rise of the Red Hot Chili Peppers: Our Bother, Hillel
+## The Rise of the Red Hot Chili Peppers: Our Brother, Hillel
 ### (Ben Feldman, 2026)
 
 ![The Rise of the Red Hot Chili Peppers](/images/redhot.jpeg)
